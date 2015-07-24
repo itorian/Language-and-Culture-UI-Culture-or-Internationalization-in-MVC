@@ -1,0 +1,3 @@
+# Language and Culture/UI Culture or Internationalization in MVC
+Setting up Language and UI Culture in efficient way is very important. Also, there are many ways to achieve this today but the best way is always easy to achieve, clean, documented. I can see many posts online about this but they not much useful and end to end discussed, you end up with huge code.  In this post we will discuss a best possible way to achieve this. Using the suggested approach here you can localize-culture Model Metadata and Validations which includes Display, Required, StringLength etc.
+Blog post here: http://www.itorian.com/2015/07/language-and-cultureui-culture-or.html
